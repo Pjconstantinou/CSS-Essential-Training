@@ -34,4 +34,57 @@ h2 {
 
 * {
     background: darkcyan;
+
 }
+
+#contactlist {
+    width: 1000px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+li {
+    padding: 5px;
+    border: 10px;
+    margin: 10px;
+    width: 1000px;
+    list-style-type: none;
+}
+
+.link {
+    border-radius: 25px;
+    padding: 5px;
+    margin: 15px, 5px;
+    width: inherit;
+    font: 25pt;
+
+}
+
+#email {
+    background-color: darkmagenta;
+}
+
+#portfolio {
+    background-color: darkolivegreen;
+}
+
+#insta {
+    background-color: indigo;
+}
+
+body {
+    margin: 25px;
+    padding: 15px;
+    margin-left: 45px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+a {
+    font-size: 25px;
+    text-decoration: none;
+ }
